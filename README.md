@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowtu47" alt="gowtu47" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gowtham pulivendula" target="blank"><img src="https://img.shields.io/twitter/follow/gowtham pulivendula?logo=twitter&style=for-the-badge" alt="gowtham pulivendula" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gowtu635" target="blank"><img src="https://img.shields.io/twitter/follow/gowtham pulivendula?logo=twitter&style=for-the-badge" alt="gowtham pulivendula" /></a> </p>
 
 - 🔭 I’m currently working on **Docker Curriculum and Cloud Security**
 
@@ -47,7 +47,7 @@
 <h3 align="left">Support:</h3>
 <p><a href=https://www.buymeacoffee.com/gowtu635A> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Gowtham" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtu47&show_icons=true&locale=en&layout=compact" alt="gowtu47" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtu47&show_icons=true&locale=en&layout=compact" alt="gowtu47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowtu47&show_icons=true&locale=en" alt="gowtu47" /></p>
 
