@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Pulivendula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtu47&label=Profile%20views&color=0e75b6&style=flat" alt="gowtu47" /> </p>
 
